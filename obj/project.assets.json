@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valkyrienyanko\\Desktop\\Common\\Common.csproj",
+      "projectUniqueName": "c:\\Users\\valkyrienyanko\\Desktop\\common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\valkyrienyanko\\Desktop\\Common\\Common.csproj",
+      "projectPath": "c:\\Users\\valkyrienyanko\\Desktop\\common\\Common.csproj",
       "packagesPath": "C:\\Users\\valkyrienyanko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valkyrienyanko\\Desktop\\Common\\obj\\",
+      "outputPath": "c:\\Users\\valkyrienyanko\\Desktop\\common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

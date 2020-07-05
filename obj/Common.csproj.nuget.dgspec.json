@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valkyrienyanko\\Desktop\\Common\\Common.csproj": {}
+    "C:\\Users\\valkyrienyanko\\Desktop\\common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valkyrienyanko\\Desktop\\Common\\Common.csproj": {
+    "C:\\Users\\valkyrienyanko\\Desktop\\common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valkyrienyanko\\Desktop\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\valkyrienyanko\\Desktop\\common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\valkyrienyanko\\Desktop\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\valkyrienyanko\\Desktop\\common\\Common.csproj",
         "packagesPath": "C:\\Users\\valkyrienyanko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valkyrienyanko\\Desktop\\Common\\obj\\",
+        "outputPath": "C:\\Users\\valkyrienyanko\\Desktop\\common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
